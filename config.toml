@@ -95,7 +95,7 @@ description = "Far far away, behind the word mountains, far from the countries V
 icon = "icon-bulb"
 img = "img_7.jpg"
 title = "Plan"
-url = "#"
+url = "javascript:document.getElementById(\"fh5co-contact\").scrollIntoView({behavior: \"smooth\", block: \"end\", inline: \"nearest\"});"
 [[params.intro.item]]
 button = "Click Me"
 description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
