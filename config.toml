@@ -90,7 +90,7 @@ icon = "icon-play2"
 title = "NVIDIA 3080s Available"
 url = "https://www.youtube.com/embed/7QeoZY4tf9I"
 [[params.intro.item]]
-button = "Get In Touch"
+button = "Contact Us"
 description = "Rent V100s from $0.75/hour and NVIDIA 3080s from $0.40/hour! That's 50% less than competing public clouds!"
 icon = "icon-money"
 img = "img_7.jpg"
