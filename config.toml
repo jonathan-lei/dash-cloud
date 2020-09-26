@@ -98,7 +98,7 @@ title = "Cheaper"
 url = "#fh5co-contact"
 [[params.intro.item]]
 button = "Contact Us"
-description = "Water cooled Intel Xeons, local NVMe SSDs, DDR4 RAM, Fiber optic connection, virtual networking. You name it, we have it. Our bleeding-edge hardware outperforms competitors virtually every competitor one can imagine. "
+description = "NVMe SSDs, DDR4 RAM, Fiber optic connection. You name it, we have it. Our bleeding-edge hardware outperforms competitors. "
 icon = "icon-tachometer"
 img = "img_8.jpg"
 title = "Faster"
