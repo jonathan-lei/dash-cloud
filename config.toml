@@ -78,7 +78,7 @@ interval = 50
 speed = 5000
 to = 52
 [params.footer]
-copyright = "&copy; Elate Free HTML5. All Rights Reserved. <br>Created by <a href=\"http://freehtml5.co/\" target=\"_blank\">FREEHTML5.co</a> Images: <a href=\"http://pexels.com/\" target=\"_blank\">Pexels</a>, <a href=\"http://plmd.me/\" target=\"_blank\">plmd.me</a> <br>Hugo port by: <a href=\"https://github.com/saey55\" target=\"_blank\">saey55</a>"
+copyright = "&copy; 2020 Dash Cloud. All rights reserved."
 enable = true
 links = [["icon-twitter", "#twitter"], ["icon-facebook", "#facebook"], ["icon-youtube", "#youtube"]]
 [params.hero]
