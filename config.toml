@@ -169,7 +169,7 @@ subtitle = "From $0.17/hour"
 title = "Cloud NVIDIA 1080s"
 [[params.work.row]]
 alt = "NVIDIA 3080"
-img = "3080.jpg"
+img = "nvidia-3080.jpg"
 subtitle = "From $0.56/hour"
 title = "Cloud NVIDIA 3080s"
 [[params.work.row]]
