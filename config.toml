@@ -140,7 +140,7 @@ icon = "icon-monitor"
 title = "CMS &amp; eCommerce"
 [params.testimonials]
 description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-enable = true
+enable = false
 title = "Testimonials"
 [[params.testimonials.item]]
 alt = "Person1"
