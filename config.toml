@@ -165,7 +165,7 @@ title = "Work"
 [[params.work.row]]
 alt = "NVIDIA 1080"
 img = "zotac-1080.jpg"
-subtitle = "From $0.10/hour"
+subtitle = "From $0.17/hour"
 title = "Cloud NVIDIA 1080s"
 [[params.work.row]]
 alt = "NVIDIA 3080"
