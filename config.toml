@@ -99,7 +99,7 @@ url = "#fh5co-contact"
 [[params.intro.item]]
 button = "Click Me"
 description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-icon = "icon-wrench"
+icon = "icon-tachometer"
 img = "img_8.jpg"
 title = "Develop"
 url = "#"
