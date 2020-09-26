@@ -71,12 +71,12 @@ interval = 50
 speed = 5000
 to = 1302
 [[params.counters.item]]
-description = "Happy clients"
-from = 0
+description = "Employees"
+from = "0"
 icon = "icon-people"
-interval = 50
+interval = "50"
 speed = 5000
-to = 52
+to = "5"
 [params.footer]
 copyright = "&copy; 2020 Dash Cloud. All rights reserved."
 enable = true
