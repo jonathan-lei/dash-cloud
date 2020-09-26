@@ -158,10 +158,10 @@ img = "person3.jpg"
 person = "Chris Nash, Director <a href=\"http://freehtml5.co/\" target=\"_blank\">FREEHTML5.co</a> <span class=\"subtext\">Creative Director</span>"
 quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. &rdquo;"
 [params.work]
-description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+description = "Our pricing is among the most affordable in the industry. Come test us out! "
 enable = true
 footertext = "Contact us if you are interested!"
-title = "Work"
+title = "Pricing"
 [[params.work.row]]
 alt = "NVIDIA 1080"
 img = "zotac-1080.jpg"
