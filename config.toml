@@ -87,8 +87,8 @@ title = "Faster, Better, Cheaper — That's <b>Dash Cloud</b>"
 [params.intro.video]
 enable = true
 icon = "icon-play2"
-title = "Watch the video"
-url = "https://vimeo.com/channels/staffpicks/93951774"
+title = "NVIDIA 3080s Available"
+url = "https://www.youtube.com/embed/7QeoZY4tf9I"
 [[params.intro.item]]
 button = "Get In Touch"
 description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
