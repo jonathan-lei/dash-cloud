@@ -58,11 +58,11 @@ speed = 5000
 to = "8"
 [[params.counters.item]]
 description = "Lines of code"
-from = 0
+from = "0"
 icon = "icon-code"
 interval = 50
 speed = 5000
-to = 2343409
+to = "5000"
 [[params.counters.item]]
 description = "Cups of coffee"
 from = 0
