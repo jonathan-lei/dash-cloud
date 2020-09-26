@@ -83,7 +83,7 @@ enable = true
 links = [["icon-twitter", "#twitter"], ["icon-facebook", "#facebook"], ["icon-youtube", "#youtube"]]
 [params.hero]
 subtitle = "Providing an award-winning hosted cloud for high-performance-compute at a fraction of the cost. From NVIDIA 1080s to V100s, we have the hardware your HPC needs require. "
-title = "Faster, Better, Cheaper — That's Dash Cloud"
+title = "Faster, Better, Cheaper — That's <b>Dash Cloud</b>"
 [params.intro.video]
 enable = true
 icon = "icon-play2"
