@@ -177,18 +177,3 @@ alt = "Image3"
 img = "work_3.jpg"
 subtitle = "Design"
 title = "Project 3"
-[[params.work.row]]
-alt = "Image4"
-img = "work_4.jpg"
-subtitle = "Design"
-title = "Project 4"
-[[params.work.row]]
-alt = "Image5"
-img = "work_5.jpg"
-subtitle = "Design"
-title = "Project 5"
-[[params.work.row]]
-alt = "Image6"
-img = "work_6.jpg"
-subtitle = "Design"
-title = "Project 6"
