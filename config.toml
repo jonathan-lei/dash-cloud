@@ -95,7 +95,7 @@ description = "Rent V100s from $0.75/hour and NVIDIA 3080s from $0.40/hour! That
 icon = "icon-money"
 img = "img_7.jpg"
 title = "Cheaper"
-url = "javascript:document.getElementById(\"fh5co-contact\").scrollIntoView({behavior: \"smooth\", block: \"end\", inline: \"nearest\"});"
+url = "#fh5co-contact"
 [[params.intro.item]]
 button = "Click Me"
 description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
