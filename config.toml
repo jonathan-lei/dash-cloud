@@ -106,7 +106,7 @@ url = "#fh5co-contact"
 [[params.intro.item]]
 button = "Contact Us"
 description = "Our data centers are staffed with 24x7 onsite technicians with multiple levels of security to ensure the safety of your data. "
-icon = "icon-rocket"
+icon = "icon-lock"
 img = "img_10.jpg"
 title = "Safer"
 url = "#"
