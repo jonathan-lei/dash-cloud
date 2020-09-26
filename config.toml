@@ -91,10 +91,10 @@ title = "NVIDIA 3080s Available"
 url = "https://www.youtube.com/embed/7QeoZY4tf9I"
 [[params.intro.item]]
 button = "Get In Touch"
-description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-icon = "icon-bulb"
+description = "Rent V100s from $0.75/hour and NVIDIA 3080s from $0.40/hour! That's 50% less than competing public clouds!"
+icon = "icon-money"
 img = "img_7.jpg"
-title = "Plan"
+title = "Cheaper"
 url = "javascript:document.getElementById(\"fh5co-contact\").scrollIntoView({behavior: \"smooth\", block: \"end\", inline: \"nearest\"});"
 [[params.intro.item]]
 button = "Click Me"
