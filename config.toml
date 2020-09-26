@@ -164,9 +164,9 @@ footertext = "** Demo images from <a href=\"http://plmd.me/\" target=\"_blank\">
 title = "Work"
 [[params.work.row]]
 alt = "Image2"
-img = "work_1.jpg"
-subtitle = "Branding"
-title = "Project 1"
+img = "zotac-1080.jpg"
+subtitle = "From $0.10/hour"
+title = "NVIDIA 1080s"
 [[params.work.row]]
 alt = "Image2"
 img = "work_2.jpg"
