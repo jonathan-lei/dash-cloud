@@ -85,7 +85,7 @@ links = [["icon-twitter", "#twitter"], ["icon-facebook", "#facebook"], ["icon-yo
 subtitle = "Providing an award-winning hosted cloud for high-performance-compute at a fraction of the cost. From NVIDIA 1080s to V100s, we have the hardware your HPC needs require. "
 title = "Faster, Better, Cheaper — That's <b>Dash Cloud</b>"
 [params.intro.video]
-enable = true
+enable = false
 icon = "icon-play2"
 title = "NVIDIA 3080s Available"
 url = "https://www.youtube.com/embed/7QeoZY4tf9I"
