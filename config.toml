@@ -64,12 +64,12 @@ interval = 50
 speed = 5000
 to = "5000"
 [[params.counters.item]]
-description = "Cups of coffee"
-from = 0
-icon = "icon-cup"
-interval = 50
-speed = 5000
-to = 1302
+description = "Servers"
+from = "0"
+icon = "icon-servers"
+interval = "50"
+speed = "5000"
+to = "40"
 [[params.counters.item]]
 description = "Employees"
 from = "0"
