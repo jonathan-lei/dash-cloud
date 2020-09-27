@@ -21,10 +21,10 @@ position = "Founder"
 social = []
 [[params.about.item]]
 alt = "Person2"
-description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
+description = "Sam Flanzer brings experience building dozens of machines is the architect behind our latest HPC machines. "
 img = "person2.jpg"
-name = "Rob Smith"
-position = "Web Developer"
+name = "Sam Flanzer"
+position = "Hardware"
 social = [["icon-twitter", "#"], ["icon-facebook", "#"], ["icon-github", "#"]]
 [[params.about.item]]
 alt = "Person3"
