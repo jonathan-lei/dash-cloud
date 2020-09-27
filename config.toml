@@ -48,7 +48,7 @@ title = "Get in touch"
 [params.counters]
 background = "full_image_1.jpg"
 enable = true
-title = "Stats"
+title = "Statistics"
 [[params.counters.item]]
 description = "Finished Projects"
 from = "0"
