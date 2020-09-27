@@ -50,12 +50,12 @@ background = "full_image_1.jpg"
 enable = true
 title = "Statistics"
 [[params.counters.item]]
-description = "Data Center Countries"
+description = "Monthly Traffic (TB)"
 from = "0"
-icon = "icon-globe"
+icon = "icon-server"
 interval = "50"
 speed = "5000"
-to = "4"
+to = "76"
 [[params.counters.item]]
 description = "Data Centers"
 from = "0"
@@ -64,12 +64,12 @@ interval = 50
 speed = 5000
 to = "10"
 [[params.counters.item]]
-description = "Servers"
+description = "Data Center Countries"
 from = "0"
-icon = "icon-server"
+icon = "icon-globe"
 interval = "50"
 speed = "5000"
-to = "40"
+to = "4"
 [[params.counters.item]]
 description = "Employees"
 from = "0"
