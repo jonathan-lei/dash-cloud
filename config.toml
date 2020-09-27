@@ -4,8 +4,8 @@ theme = "hugo-elate-theme"
 title = "Dash Cloud — Affordable GPU Cloud"
 [params]
 author = ""
-custom_css = ["css/custom1.css", "css/custom2.css"]
-description = ""
+custom_css = []
+description = "Award-winning hosted cloud for high-performance-compute at a fraction of the cost. From NVIDIA 1080s to V100s, we have the hardware your HPC needs require."
 email = "hello@dash-cloud.com"
 googleMapsApiKey = ""
 [params.about]
