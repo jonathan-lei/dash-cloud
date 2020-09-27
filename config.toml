@@ -23,7 +23,7 @@ social = []
 alt = "Sam Flanzer Profile Picture"
 description = "Sam Flanzer brings experience building dozens of machines is the architect behind our latest HPC machines. "
 img = "profile-sam.png"
-name = "Sam Flanzer"
+name = "Sam"
 position = "Hardware"
 social = []
 [[params.about.item]]
