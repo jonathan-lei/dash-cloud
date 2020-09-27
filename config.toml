@@ -117,7 +117,7 @@ contact = "Contact"
 home = "Home"
 services = "Services"
 testimonials = "Testimonials"
-work = "Our Work"
+work = "Pricing"
 [params.services]
 description = "We provide a plethora of services - contact us if you are interested!"
 enable = true
