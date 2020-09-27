@@ -46,7 +46,7 @@ name = "Name"
 phone = "Phone"
 title = "Get in touch"
 [params.counters]
-background = "full_image_1.jpg"
+background = "server-hard-drives.jpg"
 enable = true
 title = "Statistics"
 [[params.counters.item]]
