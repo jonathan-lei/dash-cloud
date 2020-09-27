@@ -123,9 +123,9 @@ description = "What can you use Dash Cloud for?"
 enable = true
 title = "Dash Cloud Applications"
 [[params.services.item]]
-description = "Industry-leading pricing on the best cloud GPUs including NVIDIA 1080s, 3080s, and V100s for machine learning, rendering, and cloud gaming. Manage via an intuitive control panel with features that rival other leading cloud providers. Contact us if you are interested! "
-icon = "icon-cloud"
-title = "GPU Cloud"
+description = "Game on our powerful consumer GPUs servers from only $0.17/hour with unnoticeable latency. "
+icon = "icon-gamepad"
+title = "Cloud Gaming"
 [[params.services.item]]
 description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
 icon = "icon-layers2"
