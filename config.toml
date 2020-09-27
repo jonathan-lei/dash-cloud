@@ -50,13 +50,6 @@ background = "full_image_1.jpg"
 enable = true
 title = "Statistics"
 [[params.counters.item]]
-description = "Finished Projects"
-from = "0"
-icon = "icon-briefcase"
-interval = "50"
-speed = 5000
-to = "8"
-[[params.counters.item]]
 description = "Data Centers"
 from = "0"
 icon = "icon-building"
