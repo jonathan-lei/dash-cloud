@@ -27,12 +27,12 @@ name = "Sam Flanzer"
 position = "Hardware"
 social = [["icon-twitter", "#"], ["icon-facebook", "#"], ["icon-github", "#"]]
 [[params.about.item]]
-alt = "Person3"
+alt = "Owen Wang Profile"
 description = "Owen is the architect behind our billing and control panels and manages everything from the front-end to networking. "
 img = ""
 name = "Owen Wang"
 position = "Software"
-social = [["icon-twitter", "#"], ["icon-facebook", "#"], ["icon-dribbble", "#"]]
+social = []
 [params.contact]
 button = "Send message"
 description = "Interested in working with us? Feel free to contact us!"
