@@ -119,9 +119,9 @@ services = "Services"
 testimonials = "Testimonials"
 work = "Pricing"
 [params.services]
-description = "We provide a plethora of services - contact us if you are interested!"
+description = "What can you use Dash Cloud for?"
 enable = true
-title = "Services"
+title = "Dash Cloud Applications"
 [[params.services.item]]
 description = "Industry-leading pricing on the best cloud GPUs including NVIDIA 1080s, 3080s, and V100s for machine learning, rendering, and cloud gaming. Manage via an intuitive control panel with features that rival other leading cloud providers. Contact us if you are interested! "
 icon = "icon-cloud"
