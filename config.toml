@@ -20,14 +20,14 @@ name = "Jonathan"
 position = "Founder"
 social = []
 [[params.about.item]]
-alt = "Sam Flanzer Profile Picture"
-description = "Sam Flanzer brings experience building dozens of machines is the architect behind our latest HPC machines. "
+alt = "Sam Profile Picture"
+description = "Sam brings experience building dozens of machines is the architect behind our latest HPC machines."
 img = "profile-sam.png"
 name = "Sam"
 position = "Hardware"
 social = []
 [[params.about.item]]
-alt = "Owen Wang Profile"
+alt = "Owen Profile"
 description = "Owen is the architect behind our billing and control panels and manages everything from the front-end to networking. "
 img = "profile-owen.png"
 name = "Owen"
