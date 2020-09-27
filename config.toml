@@ -28,10 +28,10 @@ position = "Hardware"
 social = [["icon-twitter", "#"], ["icon-facebook", "#"], ["icon-github", "#"]]
 [[params.about.item]]
 alt = "Person3"
-description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
-img = "person3.jpg"
-name = "Larry Ben"
-position = "Web Designer"
+description = "Owen is the architect behind our billing and control panels and manages everything from the front-end to networking. "
+img = ""
+name = "Owen Wang"
+position = "Software"
 social = [["icon-twitter", "#"], ["icon-facebook", "#"], ["icon-dribbble", "#"]]
 [params.contact]
 button = "Send message"
