@@ -123,9 +123,9 @@ description = "We provide a plethora of services - contact us if you are interes
 enable = true
 title = "Services"
 [[params.services.item]]
-description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
+description = "Industry-leading pricing on the best cloud GPUs including NVIDIA 1080s, 3080s, and V100s for machine learning, rendering, and cloud gaming. Manage via an intuitive control panel with features that rival other leading cloud providers. Contact us if you are interested! "
 icon = "icon-anchor"
-title = "Brand &amp; Strategy"
+title = "GPU Cloud"
 [[params.services.item]]
 description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
 icon = "icon-layers2"
