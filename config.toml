@@ -36,11 +36,11 @@ social = []
 [params.contact]
 button = "Send message"
 description = "Interested in working with us? Feel free to contact us!"
-details = [["icon-home", "5555 Love Paradise 56 New Clity 5655, <br> Excel Tower United Kingdom"], ["icon-phone", "(123) 465-6789"], ["icon-envelope", "info@freehtml5.co"], ["icon-globe", "<a href=\"http://freehtml5.co/\" target=\"_blank\">freehtml5.co</a>"]]
+details = [["icon-envelope", "hello@dash-cloud.com"], ["icon-globe", "https://www.dash-cloud.com"]]
 email = "Email"
 enable = true
 form = true
-map = true
+map = false
 message = "Message"
 name = "Name"
 phone = "Phone"
