@@ -25,7 +25,7 @@ description = "Sam Flanzer brings experience building dozens of machines is the 
 img = "person2.jpg"
 name = "Sam Flanzer"
 position = "Hardware"
-social = [["icon-twitter", "#"], ["icon-facebook", "#"], ["icon-github", "#"]]
+social = []
 [[params.about.item]]
 alt = "Owen Wang Profile"
 description = "Owen is the architect behind our billing and control panels and manages everything from the front-end to networking. "
