@@ -30,7 +30,7 @@ social = []
 alt = "Owen Wang Profile"
 description = "Owen is the architect behind our billing and control panels and manages everything from the front-end to networking. "
 img = "profile-owen.png"
-name = "Owen Wang"
+name = "Owen"
 position = "Software"
 social = []
 [params.contact]
