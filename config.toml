@@ -57,12 +57,12 @@ interval = "50"
 speed = 5000
 to = "8"
 [[params.counters.item]]
-description = "Lines of code"
+description = "Data Centers"
 from = "0"
-icon = "icon-code"
+icon = "icon-building"
 interval = 50
 speed = 5000
-to = "5000"
+to = "10"
 [[params.counters.item]]
 description = "Servers"
 from = "0"
