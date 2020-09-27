@@ -15,7 +15,7 @@ title = "About"
 [[params.about.item]]
 alt = "Jonathan Profile Picture"
 description = "Jonathan founded Dash Cloud. Under his leadership, Dash Cloud has scaled to include operations in 10 data centers around the world. "
-img = "person1.jpg"
+img = "jonathan-profile.jpg"
 name = "Jonathan Lei"
 position = "Founder"
 social = []
