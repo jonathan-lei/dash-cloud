@@ -1,7 +1,7 @@
 baseurl = "localhost:1313"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
-title = "Elate theme"
+title = "Dash Cloud — Affordable GPU Cloud"
 [params]
 author = ""
 custom_css = ["css/custom1.css", "css/custom2.css"]
