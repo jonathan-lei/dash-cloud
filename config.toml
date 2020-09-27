@@ -136,7 +136,7 @@ icon = "icon-server2"
 title = "Machine Learning"
 [[params.services.item]]
 description = "Access our machines to increase the hashrate difficulty of your blockchain projects to properly secure them. "
-icon = "icon-hammer"
+icon = "icon-gear"
 title = "Blockchain"
 [params.testimonials]
 description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
