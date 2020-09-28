@@ -91,7 +91,7 @@ title = "NVIDIA 3080s Available"
 url = "https://www.youtube.com/embed/7QeoZY4tf9I"
 [[params.intro.item]]
 button = "Contact Us"
-description = "Rent V100s from $0.75/hour and NVIDIA 3080s from $0.40/hour! That's 50% less than competing public clouds!"
+description = "Rent V100s from $0.84/hour and NVIDIA 1080s from $0.17/hour! That's a fraction of competing public clouds!"
 icon = "icon-money"
 img = "img_7.jpg"
 title = "Cheaper"
